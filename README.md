@@ -60,13 +60,7 @@ I am passionate about building **scalable, impactful AI solutions** at the inter
 
 ---
 
-## 📊 GitHub Stats  
 
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayBukka&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayBukka&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanjayBukka&theme=radical)  
-
----
 
 ## 🌍 Let’s Connect  
 📫 Email: **sanjaybukka28@gmail.com**  
