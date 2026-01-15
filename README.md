@@ -11,7 +11,6 @@ I am passionate about building **scalable, impactful AI solutions** at the inter
 - 🛠️ Skilled in backend engineering (**Flask, FastAPI, REST APIs**) and cloud deployment (**GCP**)  
 - 📖 **2x Patent Holder** and **Book Chapter Author (Taylor & Francis)**  
 - 🏆 RunnerUps Recognized in **national hackathons** for AI-driven innovations
-- 🏆 Winner in DigiTech Hackathon a Mini 6hours Hackathon
 - 🚀 Mission-driven to solve real-world problems using AI responsibly  
 
 ---
