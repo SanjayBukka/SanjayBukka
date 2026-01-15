@@ -63,15 +63,12 @@ I am passionate about building **scalable, impactful AI solutions** at the inter
 
 ## 🔥 Highlight Projects  
 
-🔹 **[Academic Research Assistant](https://github.com/SanjayBukka/AcademicResearchAssistant)** – Multi-LLM + RAG powered assistant for research literature review, semantic search & context-rich Q&A.  
+🔹 **[LeadAgentForge](https://github.com/SanjayBukka/LeadAgentForge)** – Agentic AI-powered team lead management platform using CrewAI, LangChain, and RAG for document intelligence, tech-stack recommendations, team allocation, and task generation with real-time streaming and LLM caching.  
 
-🔹 **[ResumeRanker](https://github.com/SanjayBukka/resume_ranker)** – AI-driven resume screening system that reduced hiring effort by **70%** in hackathon trials.  
+🔹 **[Academic Research Assistant](https://github.com/SanjayBukka/AcademicResearchAssistant)** – Multi-LLM + RAG powered research assistant enabling semantic paper discovery, research gap analysis, AI-assisted academic writing, and context-aware Q&A over PDFs.  
 
-🔹 **[ML Smart Bot](https://github.com/SanjayBukka/ML-Smart-Bot)** – End-to-end ML automation platform with preprocessing, model training, and performance dashboards.  
-
-🔹 **[AcoustiTranscribe](https://github.com/SanjayBukka/AcoustiTranscribe)** – Real-time multilingual speech-to-text (90%+ accuracy) improving accessibility for diverse audiences.  
-
-🔹 **AI Career Coach (Multi-Agent System)** – Intelligent career assistant using CrewAI-style orchestration, sentence-transformers, and Streamlit to match resumes with live job postings.  
+🔹 **[Multimodal Mental Health AI](https://github.com/SanjayBukka/multimodal-mental-health-ai)** – Deep learning system for mental health state classification (Depression, Anxiety, Normal) using multimodal fusion of text, audio, and physiological signals, achieving **88.89% accuracy**.  
+  
 
 ---
 
