@@ -1,16 +1,17 @@
 # 👋 Hey, I'm Sanjay Bukka!  
 
 💡 Future AI/ML Engineer | Full-Stack Developer | Patent Holder | Hackathon Enthusiast  
-🎓 B.Tech CSE (AIML) @ Woxsen University | Generative AI & Backend Specialist  
+🎓 B.Tech CSE (AIML) @ Woxsen University | Generative AI & Agentic AI  
 
 ---
 
 ## 🌟 About Me  
 I am passionate about building **scalable, impactful AI solutions** at the intersection of **Generative AI, Large Language Models (LLMs), and full-stack development**.  
-- 🧠 Experienced in **LLMs, RAG pipelines, and multimodal AI systems**  
-- 🛠️ Skilled in backend engineering (**Flask, FastAPI, REST APIs**) and cloud deployment (**AWS, GCP**)  
+- 🧠 Experienced in **LLMs, RAG pipelines,Agents and multimodal AI systems**  
+- 🛠️ Skilled in backend engineering (**Flask, FastAPI, REST APIs**) and cloud deployment (**GCP**)  
 - 📖 **2x Patent Holder** and **Book Chapter Author (Taylor & Francis)**  
-- 🏆 Recognized in **national hackathons** for AI-driven innovations  
+- 🏆 RunnerUps Recognized in **national hackathons** for AI-driven innovations
+- 🏆 Winner in DigiTech Hackathon a Mini 6hours Hackathon
 - 🚀 Mission-driven to solve real-world problems using AI responsibly  
 
 ---
