@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-I am passionate about building **scalable, impactful AI solutions** at the intersection of **Generative AI, Large Language Models (LLMs), and full-stack development**.  
+I am passionate about building **scalable, impactful AI solutions** at the intersection of **Generative AI, Large Language Models (LLMs), and Agentic AI development**.  
 - 🧠 Experienced in **LLMs, RAG pipelines,Agents and multimodal AI systems**  
 - 🛠️ Skilled in backend engineering (**Flask, FastAPI, REST APIs**) and cloud deployment (**GCP**)  
 - 📖 **2x Patent Holder** and **Book Chapter Author (Taylor & Francis)**  
